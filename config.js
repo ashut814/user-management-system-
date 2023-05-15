@@ -4,7 +4,7 @@ module.exports = {
 };
 
 const emailUser = "ashutoshtrii2411@gmail.com";
-const emailPassword = "tawqwepdhxgyyvvo";
+const emailPassword = "";
 
 module.exports = {
   emailUser,
